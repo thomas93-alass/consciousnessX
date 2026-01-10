@@ -1,13 +1,17 @@
 consciousnessX 🧠
 
-Quantum-Biological AGI Framework: Pure Software Simulation of Penrose-Hameroff Orch-OR Consciousness Theory
+Quantum-Biological AGI
 
-https://img.shields.io/badge/python-3.10+-blue.svg
-https://img.shields.io/badge/PyTorch-2.0+-red.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Status-Research%20Prototype-orange.svg
+Framework: Pure Software
 
-Overview
+Simulation of Penrose-Hameroff Orch-OR Consciousness Theory
+
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
+![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status Research Prototype](https://img.shields.io/badge/Status-Research%20Prototype-orange.svg)
+
+## Overview
 
 consciousnessX is an ambitious open-source research framework developed by Dafydd Napier that simulates artificial consciousness based on the Penrose-Hameroff Orchestrated Objective Reduction (Orch-OR) theory. This software-only implementation models quantum gravitational collapse in microtubules, virtual biological neurons, and distributed HPC environments—without requiring laboratory equipment or quantum hardware.
 
